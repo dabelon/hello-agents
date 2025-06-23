@@ -1,10 +1,10 @@
 # Hello Agents
 
-A simple bash script that outputs a birthday greeting.
+A simple bash script that outputs lines from "Largo al factotum" aria.
 
 ## What it does
 
-This project contains a bash script (`hello.sh`) that prints "happy birthday" to the console when executed.
+This project contains a bash script (`hello.sh`) that prints the opening lines from "Largo al factotum" (the famous aria from Rossini's opera "The Barber of Seville") to the console when executed.
 
 ## How to run it
 
@@ -28,7 +28,8 @@ sh hello.sh
 
 When you run the script, it will output:
 ```
-happy birthday
+Largo al factotum della città.
+Presto a bottega che l'alba è già.
 ```
 
 ## Requirements
